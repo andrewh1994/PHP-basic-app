@@ -5,7 +5,7 @@
 
 There are four steps to run this basic application:
 
-1. Download the project to the desired directory on your computer using git clone {URL}
+1. Download the project to the desired directory on your computer using git clone https://github.com/andrewh1994/PHP-basic-app
 
 2. Alter the SQL below to include the name of your own database then run the SQL commands below in your mySQL workbench to create the table and sample users:
 
